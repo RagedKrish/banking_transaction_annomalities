@@ -1,4 +1,3 @@
-# banking_transaction_annomalities
 # Advanced Autoencoder for Anomaly Detection in Banking Transactions
 
 ## 📌 Project Overview
